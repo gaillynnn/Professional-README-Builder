@@ -1,0 +1,15 @@
+{
+  "name": "professional-readme-builder",
+  "version": "1.0.0",
+  "description": "Create professional README files effortlessly with a command-line app using Inquirer. Follow the Professional README Guide for a high-quality README. Includes walkthrough video. Clone the starter code to begin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.6"
+  }
+}
